@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/emreozturanli/Tours-React/static/css/main.f58a4213.css",
-    "main.js": "/emreozturanli/Tours-React/static/js/main.68cd1685.js",
-    "index.html": "/emreozturanli/Tours-React/index.html",
-    "main.f58a4213.css.map": "/emreozturanli/Tours-React/static/css/main.f58a4213.css.map",
-    "main.68cd1685.js.map": "/emreozturanli/Tours-React/static/js/main.68cd1685.js.map"
+    "main.css": "/Tours-React/static/css/main.f58a4213.css",
+    "main.js": "/Tours-React/static/js/main.68cd1685.js",
+    "index.html": "/Tours-React/index.html",
+    "main.f58a4213.css.map": "/Tours-React/static/css/main.f58a4213.css.map",
+    "main.68cd1685.js.map": "/Tours-React/static/js/main.68cd1685.js.map"
   },
   "entrypoints": [
     "static/css/main.f58a4213.css",
